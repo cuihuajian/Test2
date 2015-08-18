@@ -1,6 +1,6 @@
 //
-//  SellMeat_newTests.m
-//  SellMeat-newTests
+//  SellMeat__newTests.m
+//  SellMeat_ newTests
 //
 //  Created by cuihuajian on 15/8/18.
 //  Copyright (c) 2015年 cuihuajian. All rights reserved.
@@ -9,11 +9,11 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface SellMeat_newTests : XCTestCase
+@interface SellMeat__newTests : XCTestCase
 
 @end
 
-@implementation SellMeat_newTests
+@implementation SellMeat__newTests
 
 - (void)setUp {
     [super setUp];
